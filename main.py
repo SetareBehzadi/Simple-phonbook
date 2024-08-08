@@ -39,6 +39,5 @@ def main():
         print(f"Unknown exception occured: {e}")
 
 
-
 if __name__ == "__main__":
     main()
